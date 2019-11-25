@@ -1,0 +1,11 @@
+{
+    "get-sample": [{
+                "id": 1,
+                "name": "hoge"
+            },
+            {
+                "id": 2,
+                "name": "fuga"
+            }
+    ],
+}
