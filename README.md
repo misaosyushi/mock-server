@@ -1,2 +1,2 @@
-# my-json-server
+# mock-server
 My Json Server
